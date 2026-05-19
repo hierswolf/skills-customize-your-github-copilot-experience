@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "unit-testing-with-pytest",
+      "title": "Unit Testing with pytest",
+      "description": "Master testing practices: writing unit tests, using fixtures, parametrization, and measuring code coverage.",
+      "path": "assignments/unit-testing-with-pytest",
+      "dueDate": "2026-06-02",
+      "attachments": [
+        {
+          "name": "Calculator Module",
+          "file": "calculator.py",
+          "type": "python"
+        },
+        {
+          "name": "Test Starter Code",
+          "file": "test_calculator.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
